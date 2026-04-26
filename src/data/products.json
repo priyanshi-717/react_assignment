@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "price": 70000,
+    "slug": "iphone-13",
+    "image": "https://m.media-amazon.com/images/I/41U-APJTp+L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "price": 60000,
+    "slug": "samsung-galaxy-s21",
+    "image": "https://m.media-amazon.com/images/I/71hN1gfzDcL._AC_UY327_FMwebp_QL65_.jpg"
+  },{
+    "id": 3,
+    "name": "Vivo Y400 pro",
+    "price": 25000,
+    "slug": "vivo-y400",
+    "image": "https://m.media-amazon.com/images/I/41L4gDdtZkL._AC_UY327_FMwebp_QL65_.jpg"
+  },{
+    "id": 4,
+    "name": "One plus nord6",
+    "price": 39000,
+    "slug": "one-plus-nord6",
+    "image": "https://m.media-amazon.com/images/I/61F1NWYtCKL._AC_UY327_FMwebp_QL65_.jpg"
+  },{
+    "id": 5,
+    "name": "Redmi A4 5G",
+    "price": 12000,
+    "slug": "redmi-a4-5g",
+    "image": "https://m.media-amazon.com/images/I/81SxS-bDvVL._AC_UY327_FMwebp_QL65_.jpg"
+  }
+
+]
