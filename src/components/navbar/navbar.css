@@ -1,0 +1,25 @@
+.navbar {
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #131921;
+    color: white;
+
+}
+.links img {
+    height: 8vh;
+    width: 16vw;
+    border-radius: 5px;
+}
+.right {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    padding: 20px;
+    align-items: center;
+}
+.links {
+    text-decoration: none;
+    color: white;
+}

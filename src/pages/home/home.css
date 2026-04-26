@@ -1,0 +1,39 @@
+.Hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    height: 50vh;
+    width: 100%;
+    background-color: rgb(231, 226, 226);
+}
+.Hero h1 {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-size: 45px;
+
+}
+
+.Hero h2 {
+    color: gray;
+}
+.Hero button {
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    padding: 5px;
+}
+.section {
+    text-align: left;
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-top: 5em;
+    margin-bottom: 8em;
+}
+.footer p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
