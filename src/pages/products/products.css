@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(128,128,128,0.3);
+}
+.both {
+    display: flex;
+    align-items:flex-start;
+    justify-content: space-between;
+}
+.bar {
+    width: 30em;
+    position: sticky;
+}
+.bar li {
+    list-style-type: none;
+    margin-bottom: 2em;
+    font-size: large;
+}
+.cards {
+    width: 100em;
+}

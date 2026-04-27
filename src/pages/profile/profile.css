@@ -1,0 +1,38 @@
+.main {
+    margin-left: 5em;
+    padding: 2em;
+}
+.round {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(128, 128, 128,0.4);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+.name p {
+    font-size: medium;
+}
+.account li {
+    list-style-type: none;
+    font-size: large;
+    font-weight: 800;
+}
+.account li p {
+    font-size: medium;
+    font-weight: 500;
+}
+.lists {
+    display: flex;
+    align-items: center;
+    gap: 5em;
+}
